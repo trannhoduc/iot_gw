@@ -1,5 +1,5 @@
 # IoT Gateway (6loWPAN + MESH Wifi)
-Function
+Feature
 *
 *
 *
