@@ -5,9 +5,10 @@
 | Gateway software for controlling the SLS                          |
 | Version: 2.0                                                      |
 | Author: sonvq@hcmut.edu.vn                                        |
+| Modify: Nho-Duc Tran                                              |
 | Date: 01/2019                                                     |
 | - Support DB using MySQL                                          |
-| - Discovery service                                               |                   |
+| - Discovery service                                               |                   
 | - compile: gcc -o main main.c $(mysql_config --libs --cflags)     |
 |-------------------------------------------------------------------|
 
